@@ -8,9 +8,9 @@ You can help by adding missing items.
 
 list1 = "Rice", "Yam", "Pasta", "Noodles", "Semo with Efo Riro", "Amala with Ewedu", "Jollof Rice"
 
-list2 = "Plantain", "Snacks", "Bread and Beans", "Snacks and Soda", "Iyan", "Puff-Puff with Malt"
+list2 = "Plantain", "Snacks", "Bread and Beans", "Snacks and Soda", "Iyan", "Puff-Puff with Malt", "Beans and Plantain"
 
-list3 = "Potato", "Carrot", "Bacon and eggs", "Porridge", "Bread with Akara", "Moi Moi with Pap"
+list3 = "Potato", "Carrot", "Bacon and eggs", "Porridge", "Bread with Akara", "Moi Moi with Pap", "Salad and Fried Rice"
 
 breakfast = random.choice(list1)
 lunch = random.choice(list2)
