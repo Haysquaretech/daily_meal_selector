@@ -3,7 +3,7 @@ import random
 """
 This list itemizes each category of food, it may be rearranged to your taste.
 It is a dynamic list and may never be able to satisfy particular standards for completeness. 
-You can help by adding missing items.
+You can help by adding missing items which you would prefer on each category.
 """
 
 list1 = "Rice", "Yam", "Pasta", "Noodles", "Semo with Efo Riro", "Amala with Ewedu", "Jollof Rice"
